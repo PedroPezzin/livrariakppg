@@ -7,7 +7,7 @@ package livrariakpg.model;
 
 /**
  *
- * @author kewen
+ * @author kewen, Pedro Pezzin
  */
 public class pessoa {
     
